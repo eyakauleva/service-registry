@@ -22,7 +22,7 @@ $ cd service-registry
 $ mvn spring-boot:run
 ```
 
-6. Open in browser http://localhost:8761/
+6. Open in browser ```http://localhost:8761/```
 
 ## About
 
